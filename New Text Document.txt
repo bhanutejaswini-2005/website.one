@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>first project</title>
+</head>
+
+<body>
+<h1>Favourite's form>
+<h2>what is your favourite color>
+<style>
+h1{
+ color:red;
+ background-color:blue;
+ text-align:center;
+ font-family:cursive;
+}
+h2{
+  color:blue;
+  background-color:yellow;
+  text-align:center;
+  border-radius:150px;
+  border-color:green;
+ border-style:double;
+}
+</style>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1-D5RprhB10CeqC8LMCTnFJjiwjl-ZdB5A&usqp=CAU">
+</body>
+</html>
+
+
